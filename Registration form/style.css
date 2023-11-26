@@ -1,6 +1,6 @@
 body{
       background: rgb(34,193,195);
-      background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgb(153, 52, 32) 86%);
+      background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgb(88, 153, 32) 86%);
       background-attachment: fixed;
       margin:0;
       font-family: 'Poppins', sans-serif; 
@@ -16,13 +16,13 @@ body{
   
   h1{
       text-align: center;
-      color:#992020;
+      color:#449920;
   }
   
   #form button{
-      background-color: #992020;
+      background-color: #449920;
       color:white;
-      border: 1px solid #992020;
+      border: 1px solid #449920;
       border-radius: 5px;
       padding:10px;
       margin:20px 0px;
@@ -42,7 +42,7 @@ body{
       font-size:20px;
       margin-top:5px;
       padding:10px;
-      border:1px solid rgb(195, 34, 34) ;
+      border:1px solid rgb(34,193,195) ;
   }
   
   .input-group input:focus{
@@ -62,3 +62,4 @@ body{
   .input-group.error input{
       border-color:rgb(206, 67, 67);
   }
+  
